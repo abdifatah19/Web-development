@@ -1,2 +1,2 @@
 # Web-development
-This is the capstone project -Taksystem
+This is a simple and easy website for making appointment with Doctor's. Docotors can also use the same website to provide comments for a parrticular appointment.
